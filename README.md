@@ -1,4 +1,5 @@
 # Dunder-Mifflin-Office-Supplies
+Website for selling Office Supplies desinged using MERN Stack.
 
 # App features
 <ul>
