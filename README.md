@@ -1,10 +1,6 @@
-# E-Commerce Store with MERN Stack
+Dunder-Mifflin-Office-Supplies
 
-This app is the follow up of my boilerplate-MERN:
-https://github.com/khoadodk/boilerplate-mern-stack
-
-# App features
-
+App features
 <ul>
 <li>Login/Signup system</li>
 <li>User/Admin dashBoard</li>
@@ -12,6 +8,4 @@ https://github.com/khoadodk/boilerplate-mern-stack
 <li>Product Search</li>
 <li>Product page with related products</li>
 <li>Shopping cart</li>
-<li>Payment with Credit Card or PayPal</li>
-<li>Email notification when an order is placed</li>
 </ul>
